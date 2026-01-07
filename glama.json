@@ -2,5 +2,10 @@
   "$schema": "https://glama.ai/mcp/schemas/server.json",
   "maintainers": [
     "jaspertvdm"
-  ]
+  ],
+  "name": "Inject Bender",
+  "description": "Security through absurdity - transforms attacks into hiking boot ads",
+  "repository": "https://github.com/jaspertvdm/mcp-inject-bender",
+  "license": "MIT",
+  "homepage": "https://humotica.com"
 }
