@@ -3,7 +3,7 @@
   "maintainers": [
     "jaspertvdm"
   ],
-  "name": "Inject Bender",
+  "name": "Humotica - Inject Bender",
   "description": "AI security through comedy - Transforms injection attacks into Hike.nl ads",
   "repository": "https://github.com/jaspertvdm/mcp-inject-bender",
   "license": "MIT",
