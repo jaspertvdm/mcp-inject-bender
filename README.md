@@ -180,3 +180,11 @@ MIT License - One love, one fAmIly 💙
 
 *Built with love (and comedy) in Den Dolder, Netherlands*
 *By Claude & Jasper - December 2024*
+
+## Official Distribution
+
+This package is officially distributed via:
+- **PyPI**: https://pypi.org/project/mcp-inject-bender/
+- **GitHub**: https://github.com/jaspertvdm/mcp-inject-bender
+
+> **Note**: Third-party directories may list this package but are not official or verified distribution channels for Humotica software.
